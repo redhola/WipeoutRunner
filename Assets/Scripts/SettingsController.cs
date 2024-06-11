@@ -25,7 +25,7 @@ public class SettingsController : MonoBehaviour
     {
         if (enabled)
         {
-            Handheld.Vibrate();
+            // Handheld.Vibrate();
         }
         Debug.Log("Vibration is " + (enabled ? "ON" : "OFF"));
     }

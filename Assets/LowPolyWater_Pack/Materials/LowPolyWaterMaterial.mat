@@ -219,7 +219,7 @@ Material:
     - _GFrequency: {r: 0.5, g: 0.38, b: 0.59, a: 0.6}
     - _GSpeed: {r: -3, g: 2, b: 1, a: 3}
     - _GSteepness: {r: 7, g: 2, b: 6, a: 2}
-    - _HColor: {r: 0.21048418, g: 0.37065843, b: 0.8113208, a: 1}
+    - _HColor: {r: 0, g: 0.6392157, b: 1, a: 1}
     - _HorizonColor: {r: 0.052907113, g: 0.24486735, b: 0.2835821, a: 1}
     - _InvFadeParemeter: {r: 0.67, g: 0.17, b: 27.39, a: 9.18}
     - _MainTex_ST: {r: 1, g: 1, b: 0, a: 0}

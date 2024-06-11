@@ -202,7 +202,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1815057279496673776, guid: 916e6e0b1ebe89c4b86551bfe6710c08, type: 3}
       propertyPath: m_Text
-      value: YOU'VE WON THIS LEVEL
+      value: Congratulations!
       objectReference: {fileID: 0}
     - target: {fileID: 1815057279496673790, guid: 916e6e0b1ebe89c4b86551bfe6710c08, type: 3}
       propertyPath: m_Name

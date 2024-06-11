@@ -80,8 +80,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26cd1a60213361f47a96d3d8444dccea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forwardSpeed: 8
-  lateralSpeed: 8
+  forwardSpeed: 14
+  lateralSpeed: 40
 --- !u!114 &5769276138518862261
 MonoBehaviour:
   m_ObjectHideFlags: 0
